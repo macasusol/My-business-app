@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative & Strategic - [Oak City Creative Studio]</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">The Triple Threat Studio</div>
+        <nav>
+            <a href="#services">Services</a>
+            <a href="#tattoo">Tattoo Art</a>
+            <a href="#graphic">Graphic Design</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero-section">
+        <h1>Creative Vision. Structured Success.</h1>
+        <p>Your partner in unique artistic expression and disciplined project delivery. From skin to screen, and concept to completion.</p>
+        <a href="#services" class="cta-button">View Our Services</a>
+    </section>
+
+    <section id="services" class="services-container">
+        <h2>Our Core Services</h2>
+
+        <div class="service-card" id="tattoo">
+            <h3>Tattoo Artistry</h3>
+            <p>**Expression on Skin.** Specializing in custom, meaningful tattoos. From delicate fine-line work to bold, traditional designs. Book a consultation to discuss your next piece.</p>
+        </div>
+
+        <div class="service-card" id="graphic">
+            <h3>Graphic Design</h3>
+            <p>**Visual Communication.** Elevate your brand with stunning design. Services include logo creation, brand identity, marketing materials, and digital assets.</p>
+        </div>
+
+        <div class="service-card" id="project-management">
+            <h3>Project Management</h3>
+            <p>**Structured Delivery.** Bringing clarity and discipline to your creative or business projects. Expertise in scope definition, scheduling, resource allocation, and timely execution.</p>
+        </div>
+    </section>
+
+    <footer id="contact" class="footer">
+        <p>Ready to start a project? Get in touch!</p>
+        <p>Email: <a href="mailto:oakcitytattoos@gmail. com">oakcitytattoos@gmail.com</a> | Phone: (919) 838-8330</p>
+        <p class="copyright">&copy; 2025 Oak City Creative Studio. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
